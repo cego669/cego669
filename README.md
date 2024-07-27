@@ -1,4 +1,4 @@
-<h1>About me</h1>
+<h1> 🔍 About me: </h1>
 <img src="https://raw.githubusercontent.com/cego669/cego669/master/0261.jpg" alt="Truly an data alchemist!" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
   
@@ -6,7 +6,7 @@
 
   I am an active member of the Artificial Intelligence & Medical Image Processing (AIMIP) research group at UFG, whose purpose is to apply Machine Learning 🤖 methods or Data Science 📈 in the context of healthcare. As a member of the group, I was directly or indirectly involved in several scientific works.
 
-  I am a Data Science and Machine Learning enthusiast, with a lot of experience in **Python**, especially with regard to the pandas, scikit-learn, pytorch, numpy, scipy and   matplotlib packages. At the moment, I have been trying to improve myself in **SQL**, **Power BI** and **cloud computing (Azure)**.
+  I am a **Data Science and Machine Learning enthusiast**, with a lot of experience in **Python**, especially with regard to the pandas, scikit-learn, pytorch, numpy, scipy and   matplotlib packages. At the moment, I have been trying to improve myself in **SQL**, **Power BI** and **cloud computing (Azure)**.
 
   As an alchemist, my greatest interest is **transmuting data into valuable solutions and insights!** ⚗️🧪📈📊
 </p>
