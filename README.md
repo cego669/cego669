@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="truly an alchemist!" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/cego669/cego669/master/0261.jpg" alt="Truly an data alchemist!" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
