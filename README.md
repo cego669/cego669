@@ -32,6 +32,6 @@
 <p align="left">
   <a href="mailto:carlosedgonc@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="www.linkedin.com/in/cego669" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/cego669" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
