@@ -30,8 +30,8 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:carlosedgonc@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:carlosedgonc@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="www.linkedin.com/in/cego669" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/cego669" alt="LinkedIn"/></a>
 </p>
