@@ -1,12 +1,12 @@
 <h1> 🔍 About me: </h1>
-  **Bachelor's degree in Medical Physics** ⚛️ at UFG (Federal University of Goiás) and currently studying for a **master's degree in Electrical and Computer Engineering** at UFG,   with a project involving prediction of patient no-shows in procedures at the Clínica Radiológica de Anápolis.
 
-  I am an active member of the Artificial Intelligence & Medical Image Processing (AIMIP) research group at UFG, whose purpose is to apply Machine Learning 🤖 methods or Data Science 📈 in the context of healthcare. As a member of the group, I was directly or indirectly involved in several scientific works.
+**Bachelor's degree in Medical Physics** ⚛️ at UFG (Federal University of Goiás) and currently studying for a **master's degree in Electrical and Computer Engineering** at UFG,   with a project involving prediction of patient no-shows in procedures at the Clínica Radiológica de Anápolis.
 
-  I am a **Data Science and Machine Learning enthusiast**, with a lot of experience in **Python**, especially with regard to the pandas, scikit-learn, pytorch, numpy, scipy and   matplotlib packages. At the moment, I have been trying to improve myself in **SQL**, **Power BI** and **cloud computing (Azure)**.
+I am an active member of the Artificial Intelligence & Medical Image Processing (AIMIP) research group at UFG, whose purpose is to apply Machine Learning 🤖 methods or Data Science 📈 in the context of healthcare. As a member of the group, I was directly or indirectly involved in several scientific works.
+
+I am a **Data Science and Machine Learning enthusiast**, with a lot of experience in **Python**, especially with regard to the pandas, scikit-learn, pytorch, numpy, scipy and  matplotlib packages. At the moment, I have been trying to improve myself in **SQL**, **Power BI** and **cloud computing (Azure)**.
 
   **As an alchemist, my greatest interest is transmuting data into valuable solutions and insights!** ⚗️🧪📈📊
-</p>
 
 <p align="left">
   <h1>💻 Skills:</h1>
