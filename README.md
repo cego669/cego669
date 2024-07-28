@@ -1,7 +1,4 @@
 <h1> 🔍 About me: </h1>
-<img src="https://raw.githubusercontent.com/cego669/cego669/master/0261.jpg" alt="Truly an data alchemist!" min-width="400px" max-width="400px" width="400px" align="right">
-<p align="left"> 
-  
   **Bachelor's degree in Medical Physics** ⚛️ at UFG (Federal University of Goiás) and currently studying for a **master's degree in Electrical and Computer Engineering** at UFG,   with a project involving prediction of patient no-shows in procedures at the Clínica Radiológica de Anápolis.
 
   I am an active member of the Artificial Intelligence & Medical Image Processing (AIMIP) research group at UFG, whose purpose is to apply Machine Learning 🤖 methods or Data Science 📈 in the context of healthcare. As a member of the group, I was directly or indirectly involved in several scientific works.
