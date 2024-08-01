@@ -6,7 +6,7 @@ I am an active member of the Artificial Intelligence & Medical Image Processing 
 
 I am a **Data Science and Machine Learning enthusiast**, with a lot of experience in **Python**, especially with regard to the pandas, scikit-learn, pytorch, numpy, scipy and  matplotlib packages. At the moment, I have been trying to improve myself in **SQL**, **Power BI** and **cloud computing (Azure)**.
 
-  **As an alchemist, my greatest interest is transmuting data into valuable solutions and insights!** ⚗️🧪📈📊
+  **As a data alchemist, my greatest interest is transmuting data into valuable solutions and insights!** ⚗️🧪📈📊
 
 <p align="left">
   <h1>💻 Skills:</h1>
